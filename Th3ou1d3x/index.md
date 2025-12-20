@@ -16,4 +16,5 @@
 ## Is not good at `html` like he sucks at it
 ## Wants to learn `html` but is too lazy to
 ## Also wants to learn `LaTeX` but is still too lazy
-## Im writing this in markdown
+## Im writing this in markdown bc I'm far too lazy to write it in html or learn good html
+## Bob's your uncle
