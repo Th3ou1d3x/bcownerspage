@@ -13,6 +13,7 @@
 ## Hates paid IDE's
 ## Owns [bloodcircuit.org](https://bloodcircuit.org)
 ## _Why am I here? I dunno maybe because I own this site_
+## _if you use Rust then you are geneticaly defective_
 ## Is not good at `html` like he sucks at it
 ## Wants to learn `html` but is too lazy to do it
 ## Also wants to learn `LaTeX` but is still too lazy
