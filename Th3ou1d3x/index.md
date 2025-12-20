@@ -14,7 +14,7 @@
 ## Owns [bloodcircuit.org](https://bloodcircuit.org)
 ## _Why am I here? I dunno maybe because I own this site_
 ## Is not good at `html` like he sucks at it
-## Wants to learn `html` but is too lazy to
+## Wants to learn `html` but is too lazy to do it
 ## Also wants to learn `LaTeX` but is still too lazy
 ## _Im writing this in markdown bc I'm far too lazy to write it in html or learn good html_
 ## _Bob's your uncle_
